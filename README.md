@@ -1,2 +1,3 @@
-# open-mobile-app-pec3
-A mobile application for modern development workflows
+# Open Mobile App Pec3
+
+A mobile application for modern development workflows.
